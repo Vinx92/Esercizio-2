@@ -1,3 +1,3 @@
-# Esercizio-2
-Secondo layout FLEX niente responsive ma solo impostazione layout <br>
+# Lista caffè
+<br>
 https://vinx92.github.io/Esercizio-2/
